@@ -1,0 +1,16 @@
+<div id="responsive-form" class="clearfix">
+
+<div class="form-row">
+<div class="column-half">Nome * [ text* your-name ]</div>
+<div class="column-half">La tua Email * [email* your-email]</div>
+</div>
+
+<div class="form-row">
+<div class="column-full">Il tuo messaggio * [textarea your-message]</div>
+</div>
+
+<div class="form-row">
+<div class="column-full">[submit "Invia"]</div>
+</div>
+
+</div> 
